@@ -36,7 +36,7 @@ https://github.com/mburkley/tms9900-gcc
 
 
 ## CC6303
-CC6303 C compiler for the Motorola 6800 and 6803 architectures by "EtchedPixels": 
+CC6303 C compiler for the Motorola 6800 and 6803 architectures by "EtchedPixels" (Alan Cox): 
 
 https://github.com/EtchedPixels/CC6303
 
